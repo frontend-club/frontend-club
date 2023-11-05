@@ -19,7 +19,7 @@ jobs:
           USERNAME: "frontendclub" # Hashnode Username
           COUNT: 4 # MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: "https://rahulprasad.hashnode.dev/"
+          BLOG_URL: "https://frontendclub.hashnode.dev/"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{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}}
 
