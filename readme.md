@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, somos Frontend Club</h1>
+<h1 align="center">Frontend Club</h1>
 <h3 align="center">👉 La comunidad para convertirse en desarrollador web frontend.</h3>
 
 - 🔭 Estamos trabajando en [JavaScript Tutorial](https://frontendclub.hashnode.dev/)
