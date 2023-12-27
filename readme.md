@@ -11,8 +11,6 @@
 
 - 📫 Contactanos en: **xantosromerodev@gmail.com**
 
-- 📄 Conoce más de nosotros en [codepen.io/frontend-club](codepen.io/frontend-club)
-
 <h3 align="left">Conecta con nosotros:</h3>
 <p align="left">
 <a href="https://codepen.io/frontend-club" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="frontend-club" height="30" width="40" /></a>
