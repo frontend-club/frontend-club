@@ -1,15 +1,15 @@
 <h1 align="center">Frontend Club</h1>
 <h3 align="center">La comunidad para convertirse en desarrollador web frontend🔥.</h3>
 
-- 🔭 Estamos trabajando en construir [Frontend Club Blog](https://frontend-club.bullet.site/)
+- 🔭 Estamos construyendo nuestro [Blog](https://frontend-club.bullet.site/)
 
 - 👨‍💻 Nuestros proyectos estan disponibles en [Codepen](https://codepen.io/frontend-club)
 
-- 📝 Regularmente escribimos artículos en [Hashnode](frontendclub.hashnode.dev)
+- 📝 Regularmente escribimos artículos en [Hashnode](https://frontend-club.bullet.site/)
 
 - 💬 Pregúntanos sobre **HTML, CSS y JavaScript**
 
-- 📫 Contactanos en: **xantosromerodev@gmail.com**
+- 📫 Contactanos a: **xantosromerodev@gmail.com**
 
 <h3 align="left">Conecta con nosotros:</h3>
 <p align="left">
