@@ -3,7 +3,7 @@
 
 - 👨‍💻 Únete a nuestro desafío de codificación [100DaysOfProjects](https://frontend-club.bullet.site/100daysofprojects/)
 
-- 🔭 Estamos construyendo nuestro [Blog](https://frontend-club.bullet.site/)
+- 🔭 Visita nuestro [Blog](https://frontend-club.bullet.site/)
 
 - 👨‍💻 Nuestros proyectos estan disponibles en [Codepen](https://codepen.io/frontend-club)
 
