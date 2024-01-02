@@ -1,6 +1,8 @@
 <h1 align="center">Frontend Club</h1>
 <h3 align="center">La comunidad para convertirse en desarrollador web frontend🔥.</h3>
 
+- 👨‍💻 Únete a nuestro desafío de codificación [100DaysOfProjects](https://frontend-club.bullet.site/100daysofprojects/)
+
 - 🔭 Estamos construyendo nuestro [Blog](https://frontend-club.bullet.site/)
 
 - 👨‍💻 Nuestros proyectos estan disponibles en [Codepen](https://codepen.io/frontend-club)
