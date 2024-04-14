@@ -1,17 +1,15 @@
 <h1 align="center">Frontend Club</h1>
-<h3 align="center">La comunidad para convertirse en desarrollador web frontend🔥.</h3>
+<h2 align="center">Mejora tus habilidades de codificación construyendo proyectos geniales.</h2>
 
-- 👨‍💻 Únete a nuestro desafío de codificación [100DaysOfProjects](https://frontend-club.bullet.site/100daysofprojects/)
+- 👨‍💻 Únete a nuestro desafío de codificación [100DaysOfProjects](https://frontendclub.ck.page/100daysofprojects)
 
 - 🔭 Visita nuestro [Blog](https://frontend-club.bullet.site/)
 
 - 👨‍💻 Nuestros proyectos estan disponibles en [Codepen](https://codepen.io/frontend-club)
 
-- 📝 Regularmente escribimos artículos en [Hashnode](https://frontend-club.bullet.site/)
+- 📝 Regularmente escribimos artículos en [Hashnode](https://frontendclub.hashnode.dev/)
 
 - 💬 Pregúntanos sobre **HTML, CSS y JavaScript**
-
-- 📫 Contactanos a: **xantosromerodev@gmail.com**
 
 <h3 align="left">Conecta con nosotros:</h3>
 <p align="left">
