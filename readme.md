@@ -1,24 +1,37 @@
-<h1 align="center">Frontend Club</h1>
-<h2 align="center">Mejora tus habilidades de codificación construyendo proyectos geniales.</h2>
+![github](https://i.imgur.com/HCLLeJT.png)
 
-- 👨‍💻 Únete a nuestro desafío de codificación [100DaysOfProjects](https://frontendclub.ck.page/100daysofprojects)
+## Nosotros
 
-- 🔭 Visita nuestro [Blog](https://frontend-club.bullet.site/)
+Somos una comunidad de personas geniales apasionados por el desarrollo web frontend.
+Siempre estamos aprendiendo, colaborando en equipo y mejorando nuestras habilidades de codificación construyendo proyectos geniales mediante desafíos de codificación.
 
-- 👨‍💻 Nuestros proyectos estan disponibles en [Codepen](https://codepen.io/frontend-club)
+- [100DaysOfProjects](https://frontendclub.ck.page/nueva-temporada-100daysofprojects)
+- [20WebDesignProjects](#pronto)
+- [20VanillaJavaScriptProjects](#pronto)
+- [25ReactFrontendProjects](#pronto)
 
-- 📝 Regularmente escribimos artículos en [Hashnode](https://frontendclub.hashnode.dev/)
+> _La mejor manera de aprender a programar es practicando todos los días._ — **Frontend Club**
 
-- 💬 Pregúntanos sobre **HTML, CSS y JavaScript**
+## Contáctanos
 
-<h3 align="left">Conecta con nosotros:</h3>
+- [Blog](#pronto)
+- [LinkedIn](https://www.linkedin.com/company/frontend-club-li/)
+- [Facebook](https://www.facebook.com/frontendclubfb)
+
+## Estadísticas
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frontend-club&label=Profile%20views&color=0e75b6&style=flat" alt="frontend-club" /> </p>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontend-club&show_icons=true&locale=en&layout=compact" alt="frontend-club" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontend-club&show_icons=true&locale=en" alt="frontend-club" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontend-club&" alt="frontend-club" /></p>
+
+<!-- <h3 align="center"></h3> -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frontend-club" alt="frontend-club" /></a> </p>
+
+<h3 align="left"></h3>
 <p align="left">
-<a href="https://codepen.io/frontend-club" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="frontend-club" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/frontendclub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frontendclub" height="30" width="40" /></a>
-<a href="https://www.facebook.com/frontendclubfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frontendclubfb" height="30" width="40" /></a>
-<a href="https://www.instagram.com/frontendclubig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frontendclubig" height="30" width="40" /></a>
 </p>
-<a href="https://app.daily.dev/frontendclub"><img src="https://api.daily.dev/devcards/v2/jHCtFFLtO6f68wZhClk9s.png?r=kdc&type=default" width="356" alt="Frontend Club's Dev Card"/></a>
-
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
