@@ -12,11 +12,12 @@ Siempre estamos aprendiendo, colaborando en equipo y mejorando nuestras habilida
 
 > _La mejor manera de aprender a programar es practicando todos los días._ — **Frontend Club**
 
-## Contáctanos
+## Comunidad
 
-- [Blog](#pronto)
+- [Hashnode](https://frontend-club.hashnode.dev/)
 - [LinkedIn](https://www.linkedin.com/company/frontend-club-li/)
 - [Facebook](https://www.facebook.com/frontendclubfb)
+- [WhatsApp](https://chat.whatsapp.com/EJR1TBWu1Pc6Gz33i2mASa)
 
 ## Estadísticas
 
